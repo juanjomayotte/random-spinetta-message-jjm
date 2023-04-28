@@ -1,0 +1,27 @@
+{
+  "name": "random-spinetta-message-jjm",
+  "version": "1.0.0",
+  "description": "Random spinetta message",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanjomayotte/random-spinetta-message-jjm.git"
+  },
+
+  "keywords": ["random", "spinetta", "message"],
+  "author": "Juan José Mayotte <juanjomayotte@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juanjomayotte/random-spinetta-message-jjm/issues"
+  },
+  "homepage": "https://github.com/juanjomayotte/random-spinetta-message-jjm#readme",
+  "bin": {
+        "random-spinetta-message-jjm": "./bin/global.js"
+    },
+    "preferGlobal": true
+}
+
