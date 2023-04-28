@@ -1,2 +1,2 @@
-# random-string-message-jjm
-Random string message
+# random-spinetta-message-jjm
+Random Luis Alberto Spinetta's songs phrases
